@@ -125,6 +125,10 @@ Specifically: no feigning surprise, no well-actually's, no back-seat driving, an
 In addition to the above, please read [Code of Conduct](http://stl-tech.github.io/code-of-conduct/).
 The behaviors listed there are used as bright lines for moderation and removal.
 
+Finally, the STL Tech community is not a place for hate speech or hate groups.
+If you're a member of such a group (Nazis, the KKK, et cetera), please don't join.
+If we find you, we will remove you.
+
 ### Consequences
 
 Ultimately, the moderation team has to decide how to handle violations on a per-incident basis.
