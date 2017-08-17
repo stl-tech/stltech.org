@@ -19,5 +19,5 @@ languages:
     title: "STL Tech"
     description: |
       The Online Home of the St. Louis Tech Community. <br />
-      <a href="https://stltech.herokuapp.com">Join us on Slack</a>; We want to get to know you! <br />
-      <a href="https://stltech.herokuapp.com"><img src="https://stltech.herokuapp.com/badge.svg" alt="Slack Status" /></a>
+      <a href="http://slack.stltech.org">Join us on Slack</a>; We want to get to know you! <br />
+      <a href="http://slack.stltech.org"><img src="http://slack.stltech.org/badge.svg" alt="Slack Status" /></a>
