@@ -7,7 +7,10 @@ weight: 0
 Most of the interaction in STL Tech happens on Slack.
 We invite you to join us!
 
-You can ask any current STL Tech member for an invitation, or use our self-inviter tool located at [slack.stltech.org](http://slack.stltech.org).
-See you soon!
+You can ask any current STL Tech member for an invitation, or use our self-inviter tool located at [slack.stltech.org](http://slack.stltech.org) and embedded below.
 
 Please familiarize yourself with the Code of Conduct and Member Handbook linked from the front page before joining.
+
+See you soon!
+
+<iframe src="http://slack.stltech.org" width="100%" height="850px" style="background: white; border-radius: 4px;"></iframe>
