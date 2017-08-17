@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "git submodule init && git submodule update && hugo"
+
+[context.environment]
+  HUGO_VERSION = "0.26"
