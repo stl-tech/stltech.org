@@ -1,3 +1,21 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseurl: "https://stltech.org"
+title: "STL Tech"
+theme: "dimension"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+enableRobotsTXT: true
+disableRSS: true
+
+params:
+  logo: "fa-rocket"
+  copyright: "the STL Tech Administrators"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: "STL Tech"
+    description: |
+      The Online Home of the St. Louis Tech Community. <br />
+      <a href="https://stltech.herokuapp.com">Join us on Slack</a>; We want to get to know you! <br />
+      <a href="https://stltech.herokuapp.com"><img src="https://stltech.herokuapp.com/badge.svg" alt="Slack Status" /></a>
