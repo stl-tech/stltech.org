@@ -4,7 +4,9 @@ theme: "dimension"
 languageCode: "en-us"
 defaultContentLanguage: "en"
 enableRobotsTXT: true
-disableRSS: true
+
+disableKinds:
+  - RSS
 
 params:
   logo: "fa-rocket"
