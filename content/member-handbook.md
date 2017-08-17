@@ -7,7 +7,7 @@ weight: 0
 The goal of the St. Louis Tech Slack is to create a space for discussions that will help members grow personally and professionally, create new connections between those members, and showcase the best things about the tech community in St. Louis.
 
 This is the member handbook, a living guide to the ins and outs of the Slack.
-If you have additions or changes, please submit a PR on GitHub.
+If you have additions or changes, please [submit a PR on GitHub](https://github.com/stl-tech/stltech.org).
 
 ## Channels
 
