@@ -101,7 +101,6 @@ list below:
 - Rebecca Skinner (@rebecca.skinner)
 - Becca Stevens (@beccastevens)
 - Deech (@deech)
-- Matt Wittmann (@matt-wittmann)
 
 ## Source
 
