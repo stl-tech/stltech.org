@@ -24,7 +24,7 @@ Here are the channels that likely won't change, and which everyone should know a
   This is a good place to ask questions (is there a channel for `X`? How do we do `Y` here?)
 - **#events**: event postings.
   This is mostly RSS feeds from meetup.com with local tech events.
-  It's good for discovering new groups! 
+  It's good for discovering new groups!
   (note: If you have an event to announce, go ahead and do it here. We don't do event announcements in the announce channel since nobody can opt out of it.)
 - **#jobs**: the job board.
   We also talk about careers in general here (resumés, job hunting, et cetera.)
@@ -46,7 +46,7 @@ Some useful slash commands (entered by typing `/`, then the command name in the 
   We have our Giphy integration set to only allow G-rated GIFs and to allow you to preview the result before posting, so it's fairly safe to use.
 - `/list-private`: list private (no-preview-before-join) channels.
   These are private for various reasons, ask in \#meta if you're curious.
- 
+
 Some commands live on a Heroku dyno that may take a little bit to spin up, so you may have to retry.
 Unfortunately, this includes `/admin`.
 If you get persistent errors, please message an admin directly so we can go boop it after we help you.
@@ -120,7 +120,7 @@ Would you say it in a user group or conference talk?
 If the answer is "no", it's probably not suitable here either.
 
 We're also big fans of the [the Recurse Center's social rules](https://www.recurse.com/manual#sub-sec-social-rules).
-Specifically: no feigning surprise, no well-actually's, no back-seat driving, and no subtle -isms. 
+Specifically: no feigning surprise, no well-actually's, no back-seat driving, and no subtle -isms.
 
 In addition to the above, please read [Code of Conduct](http://stl-tech.github.io/code-of-conduct/).
 The behaviors listed there are used as bright lines for moderation and removal.
@@ -135,7 +135,7 @@ Ultimately, the moderation team has to decide how to handle violations on a per-
 Things like intentional outing will be dealt with swiftly and severely, whereas a conversation getting a little heated is less of an issue.
 We're humans too, not robots.
 That said, here are some things we might do, in rough order of severity:
- 
+
 - **private messages**: most moderation takes place in private messages.
   These usually just reminders about having constructive conversations.
   If they're more than that we will try to make it extremely clear.
@@ -151,9 +151,9 @@ That said, here are some things we might do, in rough order of severity:
 The moderation team is here to help you and to guide conversation towards good places.
 If you have any problems, use the `/admin` command and someone will respond soon.
 
-* Brian Hicks (@brianhicks) - Admin
 * Rebecca Skinner (@rebecca.skinner) - Admin
 * Becca Stevens (@beccastevens) - Moderator
 * Deech (@deech) - Moderator
+* Tristan Blease (@thetristan) - Moderator
 
 Moderators are chosen by the admins for being helpful in community spaces.
