@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct"
-date: "2017-08-16T22:41:28-05:00"
+date: "2017-12-20T22:41:28-05:00"
 weight: 0
 ---
 
@@ -97,10 +97,10 @@ Tech members or the general public.
 the incident response team can be reached by directly messaging anyone on the
 list below:
 
-- Brian Hicks (@brianhicks on Slack or brian@brianthicks.com)
 - Rebecca Skinner (@rebecca.skinner)
 - Becca Stevens (@beccastevens)
 - Deech (@deech)
+- Tristan Blease (@thetristan)
 
 ## Source
 
