@@ -99,7 +99,6 @@ list below:
 
 - Rebecca Skinner (@rebecca.skinner)
 - Becca Stevens (@beccastevens)
-- Deech (@deech)
 - Tristan Blease (@thetristan)
 
 ## Source
