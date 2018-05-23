@@ -27,7 +27,8 @@ Here are the channels that likely won't change, and which everyone should know a
   It's good for discovering new groups!
   (note: If you have an event to announce, go ahead and do it here. We don't do event announcements in the announce channel since nobody can opt out of it.)
 - **#jobs**: the job board.
-  We also talk about careers in general here (resumés, job hunting, et cetera.)
+  Please restrict this to primarily job postings
+- **#careers**: more general disucssion about careers (resumés, job hunting, et cetera.)
 
 If you want to make a new channel, read the rest of this guide and then do it.
 If you have any questions, please ask in #meta.
