@@ -154,7 +154,6 @@ If you have any problems, use the `/admin` command and someone will respond soon
 
 * Rebecca Skinner (@rebecca.skinner) - Admin
 * Becca Stevens (@beccastevens) - Moderator
-* Deech (@deech) - Moderator
 * Tristan Blease (@thetristan) - Moderator
 
 Moderators are chosen by the admins for being helpful in community spaces.
