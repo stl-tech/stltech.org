@@ -321,7 +321,7 @@ technologies.  For the most part, postings like this should be treated similarly
 to For Hire postings.  They should be short, inclusive of the types of work
 available, and limited to being posted weekly.  For external recruiters,
 aggregate job postings must also disclose that the poster is an external
-recruiter, as well as the type(s) of roles that are avilable (contract, direct
+recruiter, as well as the type(s) of roles that are available (contract, direct
 hire, contract to hire).  Additionally, for anyone posting aggregate listings,
 we ask that the job poster be available via the STL Tech Slack to answer any
 questions.  Anyone creating  aggregate postings then responding to questions
