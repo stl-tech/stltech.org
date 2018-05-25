@@ -151,7 +151,54 @@ That said, here are some things we might do, in rough order of severity:
 
 The `#jobs` channel is a space that we've dedicated for people to post when they
 are looking for work, or when they have jobs.  This section will provide some
-guidance and rules for posting in the jobs channel.
+guidance and rules for posting in the `#jobs` channel.
+
+### Pinning Posting Durations
+
+#### About Pinning
+
+Slack allows posts to be pinned to a channel.  This provides a way for job
+openings and for-hire posts to be kept around and highlighted in a channel after
+the conversation has moved on.
+
+Due to the restrictions placed on us by being a free Slack team, the full
+contents of pinned posts may not be available after 10,000 messages have been
+posted (historically that's meant 2-3 weeks for our team).  To work around this
+limitation we strongly encourage you to use a very short summary at the top of
+any posting, so that it's useful when pinned afer the full message has expired.
+
+An example of using this strategy would be:
+
+```
+Data Scientist IV at Rackspace (DM: @rebecca.skinner) https://goo.gl/abcd
+
+<rest of the message>
+```
+
+#### Pinned Message Durations
+
+Pinned messages more than 90 days old will be periodically cleared out by
+administrators.  If you have fulfilled the pinned request (filled the role,
+gotten a job) then we would request that you unpin the message yourself.
+
+#### Pinned Message Eligiability
+
+A post may be pinned if there is no similar post that has already been pinned.
+That is to say, if you posted a job listing last week and it was pinned, then
+you post again today, you need to unpin the previous listing if you want to pin
+the current one.  No hard restrictions are placed on how often you may unpin old
+posts and re-pin new ones, although moderators may request that you reduce
+the frequency of pinning our our discression if it appears to be interfering
+with the normal functioning of the `#jobs` channel.
+
+In order to encourage maximum transparency in our job postings, we place more
+stringent requirements for pinned job postings than unpinned postings.
+Aggregate job listings are not eligible for pinning.  Furthermore, a pinned job
+posting must not only provide all required information, but must provide at
+least 3 of the 6 recommended fields.
+
+For-hire postings are always eligible for pinning as long as the person seeking
+employment is a member in good standing of the community.
 
 ### When You're Looking for Work
 
@@ -173,11 +220,14 @@ post about your job openings so long as you adhere to our guidelines and rules.
 #### Job Location
 
 The STL Tech Slack is concerned with helping people who are in St. Louis find
-jobs.  To that extent, we ask that all jobs that are posted be jobs that can be
-carried out by people in St. Louis.  This means local on-sight, local remote,
-and full-time remote jobs are all okay.  There are no strict geographical bounds
-for what counts as "St. Louis", but consider that it should be within a
-reasonable distance of the greater St. Louis Metropolitan area.
+jobs.  To this end, we ask that all jobs that are posted be jobs that can be
+carried out by people in St. Louis.  This means any local job, or any non-local
+job that is full-time remote is okay.  There's no strict upper limit on how much
+travel may be involved with a position and have it still be considered remote,
+but use your best judgement ("you can fly home on the weekends" doesn't count").
+There are no strict geographical bounds for what counts as "St. Louis", but
+consider that it should be within a reasonable distance of the greater St. Louis
+Metropolitan area.
 
 #### Posting Frequency
 
@@ -203,7 +253,7 @@ All jobs that you post should have the following information:
     rough geographic area of the work site. Examples would include:
     "Chesterfield", "Near Forest Park" or "At T-Rex".
   - Your Relationship to the Role: Job postings MUST disclose the relationship
-    of the post to the company or role.  This includes explicity diclosure if
+    of the post to the company or role.  This includes explicit diclosure if
     you are a first or third party recruiter, or if you currently work at the
     company. "Unaffiliated" is a valid option, however any recruiters found to
     not have disclosed that they are recruiters when posting jobs will be
@@ -273,10 +323,9 @@ available, and limited to being posted weekly.  For external recruiters,
 aggregate job postings must also disclose that the poster is an external
 recruiter, as well as the type(s) of roles that are avilable (contract, direct
 hire, contract to hire).  Additionally, for anyone posting aggregate listings,
-we ask that the job post be available via the STL Tech Slack to answer any
-questions.  Any postings aggregate postings that are answered with a requirement
-to call and discuss opportunities will be removed, and repeat offenders will be
-banned.
+we ask that the job poster be available via the STL Tech Slack to answer any
+questions.  Anyone creating  aggregate postings then responding to questions
+with a request for a phonecall / email will be banned.
 
 ## The Moderation Team
 
