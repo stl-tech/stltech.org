@@ -20,9 +20,11 @@ Harassment includes:
 
 - Offensive comments related to gender, gender identity and expression, sexual
   orientation, disability, mental illness, neuro(a)typicality, physical
-  appearance, body size, age, race, or religion.
+  appearance, body size, age, race, or religion. Note that "offensive" includes
+  questioning the person's right to equal treatment.
 - Unwelcome comments regarding a person’s lifestyle choices and practices,
   including those related to food, health, parenting, drugs, and employment.
+- [Concern trolling](http://geekfeminism.wikia.com/wiki/Concern_troll).
 - Deliberate misgendering or use of ‘dead’ or rejected names.
 - Gratuitous or off-topic sexual images or behaviour in spaces where they’re not
   appropriate.
