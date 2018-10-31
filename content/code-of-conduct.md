@@ -100,6 +100,9 @@ list below:
 - Rebecca Skinner (@rebecca.skinner)
 - Becca Stevens (@beccastevens)
 - Tristan Blease (@thetristan)
+- Keith Brown (@hellmark)
+- Craig Buchek (@craigbuchek)
+- Ryan Colmean (@ryuhhnn)
 
 ## Source
 
