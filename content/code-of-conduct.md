@@ -28,9 +28,11 @@ Harassment includes:
 - Deliberate misgendering or use of ‘dead’ or rejected names.
 - Gratuitous or off-topic sexual images or behaviour in spaces where they’re not
   appropriate.
+- Gratuitous or off-topic discussions of violence or violent behaviour in this
+  space.
 - Physical contact and simulated physical contact (eg, textual descriptions like
   `*hug*` or `*backrub*`) without consent or after a request to stop.
-- Threats of violence.
+- Threats of violence towards any individual, group, or society at large.
 - Incitement of violence towards any individual, including encouraging a person
   to commit suicide or to engage in self-harm.
 - Deliberate intimidation.
