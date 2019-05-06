@@ -152,11 +152,10 @@ That said, here are some things we might do, in rough order of severity:
 The moderation team is here to help you and to guide conversation towards good places.
 If you have any problems, use the `/admin` command and someone will respond soon.
 
-* Rebecca Skinner (@rebecca.skinner) - Admin
-* Becca Stevens (@beccastevens) - Moderator
-* Tristan Blease (@thetristan) - Moderator
-* Keith Brown (@hellmark) - Moderator
-* Craig Buchek (@craigbuchek) - Moderator
-* Ryan Colmean (@ryuhhnn) - Moderator
+* Becca Stevens (@beccastevens)
+* Tristan Blease (@thetristan)
+* Keith Brown (@hellmark)
+* Craig Buchek (@craigbuchek)
+* Ryan Coleman (@ryuhhnn)
 
 Moderators are chosen by the admins for being helpful in community spaces.

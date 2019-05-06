@@ -99,12 +99,11 @@ Tech members or the general public.
 the incident response team can be reached by directly messaging anyone on the
 list below:
 
-- Rebecca Skinner (@rebecca.skinner)
 - Becca Stevens (@beccastevens)
 - Tristan Blease (@thetristan)
 - Keith Brown (@hellmark)
 - Craig Buchek (@craigbuchek)
-- Ryan Colmean (@ryuhhnn)
+- Ryan Coleman (@ryuhhnn)
 
 ## Source
 
