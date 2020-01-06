@@ -153,9 +153,7 @@ The moderation team is here to help you and to guide conversation towards good p
 If you have any problems, use the `/admin` command and someone will respond soon.
 
 * Becca Stevens (@beccastevens)
-* Tristan Blease (@thetristan)
 * Keith Brown (@hellmark)
 * Craig Buchek (@craigbuchek)
-* Ryan Coleman (@ryuhhnn)
 
 Moderators are chosen by the admins for being helpful in community spaces.
