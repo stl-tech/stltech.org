@@ -102,10 +102,8 @@ the incident response team can be reached by directly messaging anyone on the
 list below:
 
 - Becca Stevens (@beccastevens)
-- Tristan Blease (@thetristan)
 - Keith Brown (@hellmark)
 - Craig Buchek (@craigbuchek)
-- Ryan Coleman (@ryuhhnn)
 
 ## Source
 
