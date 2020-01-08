@@ -155,5 +155,6 @@ If you have any problems, use the `/admin` command and someone will respond soon
 * Becca Stevens (@beccastevens)
 * Keith Brown (@hellmark)
 * Craig Buchek (@craigbuchek)
+* Steven Pritchard (@silug)
 
 Moderators are chosen by the admins for being helpful in community spaces.
