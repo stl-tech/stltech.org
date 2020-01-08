@@ -10,7 +10,9 @@ do not tolerate harassment of participants in any form.
 This code of conduct applies to all STL Tech spaces, including the STL Tech
 Slack and Github Repositories, both online and off. Anyone who violates this
 code of conduct may be sanctioned or expelled from these spaces at the
-discretion of the the incident response team. **Please note that STL Tech spaces are not public spaces** and that interpretation of this Code of Conduct in matters of sanctioning or expelling participants in violation of same is at the sole discretion of the incident response team.
+discretion of the the incident response team.
+
+**Please note that STL Tech spaces are not public spaces** and that interpretation of this Code of Conduct in matters of sanctioning or expelling participants in violation of same is at the sole discretion of the incident response team.
 
 Some STL Tech spaces may have additional rules in place, which will be made
 clearly available to participants. Participants are responsible for knowing and
