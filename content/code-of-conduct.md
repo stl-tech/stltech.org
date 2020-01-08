@@ -10,7 +10,7 @@ do not tolerate harassment of participants in any form.
 This code of conduct applies to all STL Tech spaces, including the STL Tech
 Slack and Github Repositories, both online and off. Anyone who violates this
 code of conduct may be sanctioned or expelled from these spaces at the
-discretion of the the incident response team.
+discretion of the the incident response team. **Please note that STL Tech spaces are not public spaces** and that interpretation of this Code of Conduct in matters of sanctioning or expelling participants in violation of same is at the sole discretion of the incident response team.
 
 Some STL Tech spaces may have additional rules in place, which will be made
 clearly available to participants. Participants are responsible for knowing and
@@ -26,9 +26,9 @@ Harassment includes:
   including those related to food, health, parenting, drugs, and employment.
 - [Concern trolling](http://geekfeminism.wikia.com/wiki/Concern_troll).
 - Deliberate misgendering or use of ‘dead’ or rejected names.
-- Gratuitous or off-topic sexual images or behaviour in spaces where they’re not
+- Gratuitous or off-topic sexual images or behavior in spaces where they’re not
   appropriate.
-- Gratuitous or off-topic discussions of violence or violent behaviour in this
+- Gratuitous or off-topic discussions of violence or violent behavior in this
   space.
 - Physical contact and simulated physical contact (eg, textual descriptions like
   `*hug*` or `*backrub*`) without consent or after a request to stop.
@@ -47,6 +47,7 @@ Harassment includes:
 - Deliberate “outing” of any aspect of a person’s identity without their consent
   except as necessary to protect vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
+- Complaining of ‘reverse‘ -isms (‘reverse racism,’ ‘reverse sexism,’, ‘cisphobia’, etc), or otherwise attempting to legitimize the same as discrimination or oppression, will not be tolerated under any circumstances
 
 STL Tech prioritizes marginalized people’s safety over privileged people’s
 comfort. the incident response team will not act on complaints regarding:
