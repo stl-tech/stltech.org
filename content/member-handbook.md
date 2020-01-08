@@ -158,6 +158,5 @@ If you have any problems, use the `/admin` command and someone will respond soon
 * Craig Buchek (@craigbuchek)
 * Rebecca Skinner (@rebecca.skinner)
 * Steven Pritchard (@silug)
->>>>>>> master
 
 Moderators are chosen by the admins for being helpful in community spaces.

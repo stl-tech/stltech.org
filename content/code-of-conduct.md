@@ -109,7 +109,6 @@ list below:
 - Craig Buchek (@craigbuchek)
 - Rebecca Skinner (@rebecca.skinner)
 - Steven Pritchard (@silug)
->>>>>>> master
 
 ## Source
 
