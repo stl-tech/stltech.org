@@ -29,6 +29,7 @@ Here are the channels that likely won't change, and which everyone should know a
 - **#jobs**: the job board.
   Please restrict this to primarily job postings
 - **#careers**: more general disucssion about careers (resumés, job hunting, et cetera.)
+- **#welcome**: this is a space for new people to introduce themselves and the community to welcome them to our space!
 
 If you want to make a new channel, read the rest of this guide and then do it.
 If you have any questions, please ask in #meta.
@@ -104,7 +105,7 @@ If you're in doubt or have questions, ask in #meta or DM a moderator or admin di
 
 New members join frequently.
 Make sure they feel welcome and supported when they show up.
-If they're your coworkers or friends, please introduce them (if they're comfortable) in #everything.
+If they're your coworkers or friends, please introduce them (if they're comfortable) in #welcome.
 If you're new, feel free to introduce yourself!
 
 ## Please Don't Do These Things
@@ -156,5 +157,7 @@ If you have any problems, use the `/admin` command and someone will respond soon
 * Keith Brown (@hellmark)
 * Craig Buchek (@craigbuchek)
 * Rebecca Skinner (@rebecca.skinner)
+* Steven Pritchard (@silug)
+>>>>>>> master
 
 Moderators are chosen by the admins for being helpful in community spaces.
