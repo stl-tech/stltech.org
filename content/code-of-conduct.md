@@ -107,7 +107,6 @@ list below:
 - Becca Stevens (@beccastevens)
 - Keith Brown (@hellmark)
 - Craig Buchek (@craigbuchek)
-- Rebecca Skinner (@rebecca.skinner)
 - Steven Pritchard (@silug)
 
 ## Source
