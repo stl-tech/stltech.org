@@ -7,22 +7,7 @@ weight: 0
 Most of the interaction in STL Tech happens on Slack.
 We invite you to join us!
 
-<div id="CommunityInviter"></div>
-<script>
-  window.CommunityInviterAsyncInit = function () {
-    CommunityInviter.init({
-      app_url:'default',
-      team_id:'stl-tech'
-   })
-  };
-  (function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement(s); js.id = id;
-    js.src = "https://communityinviter.com/js/communityinviter.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'Community_Inviter'));
-</script>
+You can ask any current STL Tech member for an invitation, or use [Community Inviter](https://communityinviter.com/apps/stl-tech/default).
 
 See you soon!
 
