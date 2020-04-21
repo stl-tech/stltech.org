@@ -7,7 +7,7 @@ weight: 0
 Most of the interaction in STL Tech happens on Slack.
 We invite you to join us!
 
-You can ask any current STL Tech member for an invitation, or use [Community Inviter](https://communityinviter.com/apps/stl-tech/default).
+You can ask any current STL Tech member for an invitation, or use <a href="https://communityinviter.com/apps/stl-tech/default" target="_blank">Community Inviter</a>.
 
 See you soon!
 
