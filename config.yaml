@@ -21,17 +21,17 @@ languages:
       The Online Home of the St. Louis Tech Community. <br />
       <div id="CommunityInviter"></div>
       <script>
-        window.CommunityInviterAsyncInit = function () {
-          CommunityInviter.init({
-            app_url:'default',
-            team_id:'stl-tech'
-          })
-        };
-        (function(d, s, id){
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) {return;}
-          js = d.createElement(s); js.id = id;
-          js.src = "https://communityinviter.com/js/communityinviter.js";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'Community_Inviter'));
+      window.CommunityInviterAsyncInit = function () {
+      CommunityInviter.init({
+      app_url:'default',
+      team_id:'stl-tech'
+      })
+      };
+      (function(d, s, id){
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.id = id;
+      js.src = "https://communityinviter.com/js/communityinviter.js";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'Community_Inviter'));
       </script>
